@@ -39,7 +39,7 @@ public class CSSPractice extends Common{
 			extentLogger.pass("Passed:cssPractice");
 			Reusables.captureScreenshot(driver, "cssPractice_pass");
 			Reusables.writeIntoExcel(Constants.EXCEL_PATH, "TestCases", 3, 5,"passed");
-			
+			logger.info("done");
 		} catch (AssertionError|Exception e) {
 			e.printStackTrace();
 			Reusables.captureScreenshotOnFailure(driver, "cssPractice");
