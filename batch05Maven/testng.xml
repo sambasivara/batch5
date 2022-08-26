@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Automation Suite" parallel="false">
+	<test thread-count="5" name="Regression">
+		<classes>
+
+<class name="cssPractice.CSSPractice" />
+			<!-- 
+	<class name="extentPractice.ExtentReportExample" />
+		<class name="extentPractice.ExtentReportExample2" />
+      <class name="testngPractice.TNExample2"/>
+      <class name="testngPractice.TestNGExampleWithBeforeAfterMethod"/>
+      <class name="testngPractice.TestNGExampleWithBeforeAfterClass"/>
+      <class name="testngPractice.TestNGExample"/>
+      <class name="testNGParamaters.TestClass1"/>
+      -->
+		</classes>
+	</test>
+
+
+</suite> 

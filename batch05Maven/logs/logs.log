@@ -1,0 +1,193 @@
+2022-08-19 07:33:13 INFO  LoggerEx:12 - Sample log
+2022-08-19 07:33:13 INFO  LoggerEx:13 - Hi
+2022-08-20 09:02:34 ERROR VerifyInvalidMobileNumberLogin:38 - search got failed due to some error
+2022-08-20 09:03:00 INFO  Reusables:35 - Screenshot caputured successfully
+2022-08-22 08:44:58 ERROR VerifyInvalidMobileNumberLogin:42 - search got failed due to some error
+2022-08-22 08:45:03 INFO  Reusables:39 - Screenshot caputured successfully
+2022-08-22 08:49:21 INFO  GooglePage:31 - Title verification pass
+2022-08-22 08:49:21 INFO  Reusables:69 - Going to enter text in text box of:[[ChromeDriver: chrome on WINDOWS (926ecf77f8243a06dc85483d38f25c0c)] -> name: q]
+2022-08-22 08:49:21 INFO  Reusables:72 - successfuly entered text: selenium
+2022-08-22 08:49:21 INFO  Reusables:47 - Going to click on :[[ChromeDriver: chrome on WINDOWS (926ecf77f8243a06dc85483d38f25c0c)] -> name: btnK]
+2022-08-22 08:49:56 INFO  Reusables:50 - Clicked on element successfully:Proxy element for: DefaultElementLocator 'By.name: btnK'
+2022-08-22 08:50:01 INFO  Reusables:83 - Going to verify is some element displayed or not[[ChromeDriver: chrome on WINDOWS (926ecf77f8243a06dc85483d38f25c0c)] -> xpath: //span[text()='All']]
+2022-08-22 08:50:01 INFO  Reusables:87 - Element displayed successfully
+2022-08-22 08:50:02 INFO  Reusables:30 - Screenshot caputured successfully
+2022-08-22 08:50:02 INFO  GooglePage:37 - Search has done successfully
+2022-08-22 08:51:18 INFO  GooglePage:31 - Title verification pass
+2022-08-22 08:51:18 INFO  Reusables:69 - Going to enter text in text box of:[[ChromeDriver: chrome on WINDOWS (a00374688c83ffb6a38a1a3fd3bc5f41)] -> name: q]
+2022-08-22 08:51:18 INFO  Reusables:72 - successfuly entered text: Java
+2022-08-22 08:51:18 INFO  Reusables:47 - Going to click on :[[ChromeDriver: chrome on WINDOWS (a00374688c83ffb6a38a1a3fd3bc5f41)] -> name: btnK]
+2022-08-22 08:51:52 INFO  Reusables:50 - Clicked on element successfully:Proxy element for: DefaultElementLocator 'By.name: btnK'
+2022-08-22 08:51:57 INFO  Reusables:83 - Going to verify is some element displayed or not[[ChromeDriver: chrome on WINDOWS (a00374688c83ffb6a38a1a3fd3bc5f41)] -> xpath: //span[text()='All']]
+2022-08-22 08:51:57 INFO  Reusables:87 - Element displayed successfully
+2022-08-22 08:51:58 INFO  Reusables:30 - Screenshot caputured successfully
+2022-08-22 08:51:58 INFO  GooglePage:37 - Search has done successfully
+2022-08-22 08:58:10 INFO  GooglePage:31 - Title verification pass
+2022-08-22 08:58:10 INFO  Reusables:72 - Going to enter text in text box of:[[ChromeDriver: chrome on WINDOWS (ffc144b960c210519e4ab256d2d857b3)] -> name: q]
+2022-08-22 08:58:10 INFO  Reusables:75 - successfuly entered text: Java
+2022-08-22 08:58:10 INFO  Reusables:50 - Going to click on :[[ChromeDriver: chrome on WINDOWS (ffc144b960c210519e4ab256d2d857b3)] -> name: btnK]
+2022-08-22 08:58:44 INFO  Reusables:53 - Clicked on element successfully:Proxy element for: DefaultElementLocator 'By.name: btnK'
+2022-08-22 08:58:49 INFO  Reusables:86 - Going to verify is some element displayed or not[[ChromeDriver: chrome on WINDOWS (ffc144b960c210519e4ab256d2d857b3)] -> xpath: //span[text()='All']]
+2022-08-22 08:58:50 INFO  Reusables:90 - Element displayed successfully
+2022-08-22 08:58:50 INFO  Reusables:33 - Screenshot caputured successfully
+2022-08-22 08:58:50 ERROR GooglePage:40 - search got failed due to some error
+2022-08-22 08:58:51 INFO  Reusables:42 - Screenshot caputured successfully
+2022-08-23 07:14:53 INFO  GooglePage:31 - Title verification pass
+2022-08-23 07:14:53 INFO  Reusables:72 - Going to enter text in text box of:[[ChromeDriver: chrome on WINDOWS (82e45c25d43923e08290e1bc9edf06d4)] -> name: q]
+2022-08-23 07:14:54 INFO  Reusables:75 - successfuly entered text: selenium
+2022-08-23 07:14:54 INFO  Reusables:50 - Going to click on :[[ChromeDriver: chrome on WINDOWS (82e45c25d43923e08290e1bc9edf06d4)] -> name: btnK]
+2022-08-23 07:15:31 INFO  Reusables:53 - Clicked on element successfully:Proxy element for: DefaultElementLocator 'By.name: btnK'
+2022-08-23 07:15:36 INFO  Reusables:86 - Going to verify is some element displayed or not[[ChromeDriver: chrome on WINDOWS (82e45c25d43923e08290e1bc9edf06d4)] -> xpath: //span[text()='All']]
+2022-08-23 07:15:36 INFO  Reusables:90 - Element displayed successfully
+2022-08-23 07:15:36 INFO  Reusables:33 - Screenshot caputured successfully
+2022-08-23 07:15:37 ERROR GooglePage:40 - search got failed due to some error
+2022-08-23 07:15:37 INFO  Reusables:42 - Screenshot caputured successfully
+2022-08-23 07:20:31 INFO  GooglePage:31 - Title verification pass
+2022-08-23 07:20:31 INFO  Reusables:72 - Going to enter text in text box of:[[ChromeDriver: chrome on WINDOWS (29677998c294954df965b32204e47707)] -> name: q]
+2022-08-23 07:20:31 INFO  Reusables:75 - successfuly entered text: selenium
+2022-08-23 07:20:31 INFO  Reusables:50 - Going to click on :[[ChromeDriver: chrome on WINDOWS (29677998c294954df965b32204e47707)] -> name: btnK]
+2022-08-23 07:21:04 INFO  Reusables:53 - Clicked on element successfully:Proxy element for: DefaultElementLocator 'By.name: btnK'
+2022-08-23 07:21:09 INFO  Reusables:86 - Going to verify is some element displayed or not[[ChromeDriver: chrome on WINDOWS (29677998c294954df965b32204e47707)] -> xpath: //span[text()='All']]
+2022-08-23 07:21:09 INFO  Reusables:90 - Element displayed successfully
+2022-08-23 07:21:09 INFO  Reusables:33 - Screenshot caputured successfully
+2022-08-23 07:21:10 ERROR GooglePage:40 - search got failed due to some error
+2022-08-23 07:21:10 INFO  Reusables:42 - Screenshot caputured successfully
+2022-08-23 07:30:19 INFO  GooglePage:31 - Title verification pass
+2022-08-23 07:30:20 INFO  Reusables:72 - Going to enter text in text box of:[[ChromeDriver: chrome on WINDOWS (1d0fab6a55031c0bd0f3d190dd45f93f)] -> name: q]
+2022-08-23 07:30:20 INFO  Reusables:75 - successfuly entered text: selenium
+2022-08-23 07:30:20 INFO  Reusables:50 - Going to click on :[[ChromeDriver: chrome on WINDOWS (1d0fab6a55031c0bd0f3d190dd45f93f)] -> name: btnK]
+2022-08-23 07:30:53 INFO  Reusables:53 - Clicked on element successfully:Proxy element for: DefaultElementLocator 'By.name: btnK'
+2022-08-23 07:30:58 INFO  Reusables:86 - Going to verify is some element displayed or not[[ChromeDriver: chrome on WINDOWS (1d0fab6a55031c0bd0f3d190dd45f93f)] -> xpath: //span[text()='All']]
+2022-08-23 07:30:58 INFO  Reusables:90 - Element displayed successfully
+2022-08-23 07:30:59 INFO  Reusables:33 - Screenshot caputured successfully
+2022-08-23 07:30:59 INFO  GooglePage:38 - Search has done successfully
+2022-08-23 07:31:32 INFO  GooglePage:31 - Title verification pass
+2022-08-23 07:31:32 INFO  Reusables:72 - Going to enter text in text box of:[[ChromeDriver: chrome on WINDOWS (4e610f0302edd48b0cff0be0b49bad53)] -> name: q]
+2022-08-23 07:31:32 INFO  Reusables:75 - successfuly entered text: selenium
+2022-08-23 07:31:32 INFO  Reusables:50 - Going to click on :[[ChromeDriver: chrome on WINDOWS (4e610f0302edd48b0cff0be0b49bad53)] -> name: btnK]
+2022-08-23 07:32:05 INFO  Reusables:53 - Clicked on element successfully:Proxy element for: DefaultElementLocator 'By.name: btnK'
+2022-08-23 07:32:10 INFO  Reusables:86 - Going to verify is some element displayed or not[[ChromeDriver: chrome on WINDOWS (4e610f0302edd48b0cff0be0b49bad53)] -> xpath: //span[text()='All']]
+2022-08-23 07:32:11 INFO  Reusables:90 - Element displayed successfully
+2022-08-23 07:32:11 INFO  Reusables:33 - Screenshot caputured successfully
+2022-08-23 07:32:11 INFO  GooglePage:38 - Search has done successfully
+2022-08-23 07:38:37 INFO  GooglePage:31 - Title verification pass
+2022-08-23 07:38:37 INFO  Reusables:72 - Going to enter text in text box of:[[ChromeDriver: chrome on WINDOWS (3649f85e1470b05a5c2a88439bfbed1a)] -> name: q]
+2022-08-23 07:38:37 INFO  Reusables:75 - successfuly entered text: selenium
+2022-08-23 07:38:38 INFO  Reusables:50 - Going to click on :[[ChromeDriver: chrome on WINDOWS (3649f85e1470b05a5c2a88439bfbed1a)] -> name: btnK]
+2022-08-23 07:39:14 INFO  Reusables:53 - Clicked on element successfully:Proxy element for: DefaultElementLocator 'By.name: btnK'
+2022-08-23 07:39:19 INFO  Reusables:86 - Going to verify is some element displayed or not[[ChromeDriver: chrome on WINDOWS (3649f85e1470b05a5c2a88439bfbed1a)] -> xpath: //span[text()='All']]
+2022-08-23 07:39:20 INFO  Reusables:90 - Element displayed successfully
+2022-08-23 07:39:20 INFO  Reusables:33 - Screenshot caputured successfully
+2022-08-23 07:39:20 INFO  GooglePage:38 - Search has done successfully
+2022-08-23 07:40:27 ERROR GooglePage:40 - search got failed due to some error
+2022-08-23 07:40:28 INFO  Reusables:42 - Screenshot caputured successfully
+2022-08-23 07:42:10 ERROR GooglePage:38 - search got failed due to some error
+2022-08-23 07:42:11 INFO  Reusables:42 - Screenshot caputured successfully
+2022-08-23 07:52:06 INFO  GooglePage:29 - Title verification pass
+2022-08-23 07:52:06 INFO  Reusables:72 - Going to enter text in text box of:[[ChromeDriver: chrome on WINDOWS (df310dc561cfe58fbcc2c7e056ec90d6)] -> name: q]
+2022-08-23 07:52:06 INFO  Reusables:75 - successfuly entered text: selenium
+2022-08-23 07:52:06 INFO  Reusables:50 - Going to click on :[[ChromeDriver: chrome on WINDOWS (df310dc561cfe58fbcc2c7e056ec90d6)] -> name: btnK]
+2022-08-23 07:52:40 INFO  Reusables:53 - Clicked on element successfully:Proxy element for: DefaultElementLocator 'By.name: btnK'
+2022-08-23 07:52:45 INFO  Reusables:86 - Going to verify is some element displayed or not[[ChromeDriver: chrome on WINDOWS (df310dc561cfe58fbcc2c7e056ec90d6)] -> xpath: //span[text()='All']]
+2022-08-23 07:52:45 INFO  Reusables:90 - Element displayed successfully
+2022-08-23 07:52:46 INFO  Reusables:33 - Screenshot caputured successfully
+2022-08-23 07:52:46 INFO  GooglePage:36 - Search has done successfully
+2022-08-23 08:26:09 INFO  GooglePage:24 - Test execution started
+2022-08-23 08:30:05 INFO  GooglePage:24 - Test execution started
+2022-08-23 08:37:38 INFO  GooglePage:24 - Test execution started
+2022-08-23 08:39:38 INFO  GooglePage:24 - Test execution started
+2022-08-23 08:41:33 INFO  GooglePage:24 - Test execution started
+2022-08-23 08:45:09 INFO  GooglePage:24 - Test execution started
+2022-08-23 08:45:14 INFO  GooglePage:40 - Test execution started
+2022-08-23 08:45:54 INFO  GooglePage:24 - Test execution started
+2022-08-23 08:45:59 INFO  GooglePage:40 - Test execution started
+2022-08-23 08:46:36 INFO  GooglePage:24 - Test execution started
+2022-08-23 08:46:40 INFO  GooglePage:40 - Test execution started
+2022-08-23 08:47:29 INFO  GooglePage:24 - Test execution started
+2022-08-23 08:47:34 INFO  GooglePage:41 - Test execution started
+2022-08-23 08:47:34 INFO  Reusables:83 - Going to enter text in text box of:[[ChromeDriver: chrome on WINDOWS (0b10aec4bb386e6357b692a2f1083395)] -> name: q]
+2022-08-23 08:47:34 INFO  Reusables:86 - successfuly entered text: selenium
+2022-08-23 08:47:34 INFO  Reusables:61 - Going to click on :[[ChromeDriver: chrome on WINDOWS (0b10aec4bb386e6357b692a2f1083395)] -> name: btnK]
+2022-08-23 08:48:08 INFO  Reusables:64 - Clicked on element successfully:Proxy element for: DefaultElementLocator 'By.name: btnK'
+2022-08-23 08:50:51 INFO  GooglePage:24 - Test execution started
+2022-08-23 08:50:51 INFO  GooglePage:24 - Test execution started
+2022-08-23 08:50:58 INFO  GooglePage:41 - Test execution started
+2022-08-23 08:50:58 INFO  Reusables:83 - Going to enter text in text box of:[[ChromeDriver: chrome on WINDOWS (e0a78dabcbbbf322eac9483bba836d94)] -> name: q]
+2022-08-23 08:50:58 INFO  Reusables:86 - successfuly entered text: selenium
+2022-08-23 08:50:58 INFO  Reusables:61 - Going to click on :[[ChromeDriver: chrome on WINDOWS (e0a78dabcbbbf322eac9483bba836d94)] -> name: btnK]
+2022-08-23 08:51:32 INFO  Reusables:64 - Clicked on element successfully:Proxy element for: DefaultElementLocator 'By.name: btnK'
+2022-08-23 08:52:21 INFO  GooglePage:24 - Test execution started
+2022-08-23 08:52:25 INFO  GooglePage:41 - Test execution started
+2022-08-23 08:52:26 INFO  Reusables:83 - Going to enter text in text box of:[[ChromeDriver: chrome on WINDOWS (18f176212021f90eaccccb93ee4903c0)] -> name: q]
+2022-08-23 08:52:26 INFO  Reusables:86 - successfuly entered text: selenium
+2022-08-23 08:52:26 INFO  Reusables:61 - Going to click on :[[ChromeDriver: chrome on WINDOWS (18f176212021f90eaccccb93ee4903c0)] -> name: btnK]
+2022-08-23 08:53:02 INFO  Reusables:64 - Clicked on element successfully:Proxy element for: DefaultElementLocator 'By.name: btnK'
+2022-08-23 08:53:10 INFO  GooglePage:24 - Test execution started
+2022-08-23 08:54:49 INFO  GooglePage:24 - Test execution started
+2022-08-23 08:54:53 INFO  GooglePage:41 - Test execution started
+2022-08-23 08:54:53 INFO  Reusables:83 - Going to enter text in text box of:[[ChromeDriver: chrome on WINDOWS (ad3d0db3c20da46a8e492237e262aae8)] -> name: q]
+2022-08-23 08:54:54 INFO  Reusables:86 - successfuly entered text: selenium
+2022-08-23 08:54:54 INFO  Reusables:61 - Going to click on :[[ChromeDriver: chrome on WINDOWS (ad3d0db3c20da46a8e492237e262aae8)] -> name: btnK]
+2022-08-23 08:55:28 INFO  Reusables:64 - Clicked on element successfully:Proxy element for: DefaultElementLocator 'By.name: btnK'
+2022-08-23 08:55:36 INFO  GooglePage:24 - Test execution started
+2022-08-23 08:57:26 INFO  GooglePage:24 - Test execution started
+2022-08-23 08:57:31 INFO  GooglePage:41 - Test execution started
+2022-08-23 08:57:35 INFO  GooglePage:24 - Test execution started
+2022-08-23 08:59:21 INFO  GooglePage:24 - Test execution started
+2022-08-23 08:59:26 INFO  GooglePage:46 - Test execution started
+2022-08-23 08:59:29 INFO  GooglePage:24 - Test execution started
+2022-08-24 08:10:21 INFO  Reusables:139 - excel data is:Register Free at Monster India to Upload Resume and Apply Jobs Online
+2022-08-24 08:10:21 INFO  Reusables:33 - Screenshot caputured successfully
+2022-08-24 08:10:21 INFO  Reusables:139 - excel data is:Samba
+2022-08-24 08:10:21 INFO  Reusables:83 - Going to enter text in text box of:[[ChromeDriver: chrome on WINDOWS (04a106caa2fa668fca04e4730a574589)] -> css selector: input[name='fullname']]
+2022-08-24 08:10:22 INFO  Reusables:86 - successfuly entered text: Samba
+2022-08-24 08:10:22 INFO  Reusables:139 - excel data is:samba@gmail.com
+2022-08-24 08:10:22 INFO  Reusables:83 - Going to enter text in text box of:[[ChromeDriver: chrome on WINDOWS (04a106caa2fa668fca04e4730a574589)] -> css selector: .input.email-autocomplete-input]
+2022-08-24 08:10:23 INFO  Reusables:86 - successfuly entered text: samba@gmail.com
+2022-08-24 08:10:23 INFO  Reusables:33 - Screenshot caputured successfully
+2022-08-24 08:10:24 INFO  Reusables:161 - Status updated Successfully
+2022-08-24 08:57:55 INFO  Reusables:139 - excel data is:Register Free at Monster India to Upload Resume and Apply Jobs Online
+2022-08-24 08:57:55 INFO  Reusables:33 - Screenshot caputured successfully
+2022-08-24 08:57:55 INFO  Reusables:139 - excel data is:Samba
+2022-08-24 08:57:55 INFO  Reusables:83 - Going to enter text in text box of:[[ChromeDriver: chrome on WINDOWS (e82df477504065bf07250c0deb49dbe7)] -> css selector: input[name='fullname']]
+2022-08-24 08:57:56 INFO  Reusables:86 - successfuly entered text: Samba
+2022-08-24 08:57:56 INFO  Reusables:139 - excel data is:samba@gmail.com
+2022-08-24 08:57:56 INFO  Reusables:83 - Going to enter text in text box of:[[ChromeDriver: chrome on WINDOWS (e82df477504065bf07250c0deb49dbe7)] -> css selector: .input.email-autocomplete-input]
+2022-08-24 08:57:57 INFO  Reusables:86 - successfuly entered text: samba@gmail.com
+2022-08-24 08:57:57 INFO  Reusables:61 - Going to click on :[[ChromeDriver: chrome on WINDOWS (e82df477504065bf07250c0deb49dbe7)] -> id: file-upload]
+2022-08-24 08:57:58 INFO  Reusables:42 - Screenshot caputured successfully
+2022-08-24 08:57:58 INFO  Reusables:161 - Status updated Successfully
+2022-08-24 08:59:59 INFO  Reusables:139 - excel data is:Register Free at Monster India to Upload Resume and Apply Jobs Online
+2022-08-24 08:59:59 INFO  Reusables:33 - Screenshot caputured successfully
+2022-08-24 08:59:59 INFO  Reusables:139 - excel data is:Samba
+2022-08-24 08:59:59 INFO  Reusables:83 - Going to enter text in text box of:[[ChromeDriver: chrome on WINDOWS (64c2c7fa9347389bdaee775c1cfd61f9)] -> css selector: input[name='fullname']]
+2022-08-24 09:00:00 INFO  Reusables:86 - successfuly entered text: Samba
+2022-08-24 09:00:00 INFO  Reusables:139 - excel data is:samba@gmail.com
+2022-08-24 09:00:00 INFO  Reusables:83 - Going to enter text in text box of:[[ChromeDriver: chrome on WINDOWS (64c2c7fa9347389bdaee775c1cfd61f9)] -> css selector: .input.email-autocomplete-input]
+2022-08-24 09:00:01 INFO  Reusables:86 - successfuly entered text: samba@gmail.com
+2022-08-24 09:00:01 INFO  Reusables:61 - Going to click on :[[ChromeDriver: chrome on WINDOWS (64c2c7fa9347389bdaee775c1cfd61f9)] -> class name: upload-file]
+2022-08-24 09:00:02 INFO  Reusables:64 - Clicked on element successfully:[[ChromeDriver: chrome on WINDOWS (64c2c7fa9347389bdaee775c1cfd61f9)] -> class name: upload-file]
+2022-08-24 09:00:09 INFO  Reusables:33 - Screenshot caputured successfully
+2022-08-24 09:00:10 INFO  Reusables:161 - Status updated Successfully
+2022-08-24 09:00:32 INFO  Reusables:139 - excel data is:Register Free at Monster India to Upload Resume and Apply Jobs Online
+2022-08-24 09:00:32 INFO  Reusables:33 - Screenshot caputured successfully
+2022-08-24 09:00:32 INFO  Reusables:139 - excel data is:Samba
+2022-08-24 09:00:32 INFO  Reusables:83 - Going to enter text in text box of:[[ChromeDriver: chrome on WINDOWS (6e5b7b38323c8432d708ed156fd120ef)] -> css selector: input[name='fullname']]
+2022-08-24 09:00:33 INFO  Reusables:86 - successfuly entered text: Samba
+2022-08-24 09:00:33 INFO  Reusables:139 - excel data is:samba@gmail.com
+2022-08-24 09:00:33 INFO  Reusables:83 - Going to enter text in text box of:[[ChromeDriver: chrome on WINDOWS (6e5b7b38323c8432d708ed156fd120ef)] -> css selector: .input.email-autocomplete-input]
+2022-08-24 09:00:34 INFO  Reusables:86 - successfuly entered text: samba@gmail.com
+2022-08-24 09:00:34 INFO  Reusables:61 - Going to click on :[[ChromeDriver: chrome on WINDOWS (6e5b7b38323c8432d708ed156fd120ef)] -> class name: upload-file]
+2022-08-24 09:00:35 INFO  Reusables:64 - Clicked on element successfully:[[ChromeDriver: chrome on WINDOWS (6e5b7b38323c8432d708ed156fd120ef)] -> class name: upload-file]
+2022-08-24 09:00:42 INFO  Reusables:33 - Screenshot caputured successfully
+2022-08-24 09:00:42 INFO  Reusables:161 - Status updated Successfully
+2022-08-25 07:26:51 INFO  Reusables:139 - excel data is:Register Free at Monster India to Upload Resume and Apply Jobs Online
+2022-08-25 07:26:51 INFO  Reusables:33 - Screenshot caputured successfully
+2022-08-25 07:26:51 INFO  Reusables:139 - excel data is:Samba
+2022-08-25 07:26:51 INFO  Reusables:83 - Going to enter text in text box of:[[ChromeDriver: chrome on WINDOWS (408308217bc5dfdc17a092bc6b8203f7)] -> css selector: input[name='fullname']]
+2022-08-25 07:26:52 INFO  Reusables:86 - successfuly entered text: Samba
+2022-08-25 07:26:52 INFO  Reusables:139 - excel data is:samba@gmail.com
+2022-08-25 07:26:52 INFO  Reusables:83 - Going to enter text in text box of:[[ChromeDriver: chrome on WINDOWS (408308217bc5dfdc17a092bc6b8203f7)] -> css selector: .input.email-autocomplete-input]
+2022-08-25 07:26:53 INFO  Reusables:86 - successfuly entered text: samba@gmail.com
+2022-08-25 07:26:54 INFO  Reusables:33 - Screenshot caputured successfully
+2022-08-25 07:26:55 INFO  Reusables:161 - Status updated Successfully

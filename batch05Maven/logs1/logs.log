@@ -1,0 +1,16 @@
+2022-08-19 07:54:31 INFO  TestLogs:13 - Test Step1
+2022-08-19 07:54:31 INFO  TestLogs:16 - this is info
+2022-08-19 07:54:31 ERROR TestLogs:19 - got some error
+2022-08-19 07:55:14 INFO  LoggerEx:12 - Sample log
+2022-08-19 07:55:14 INFO  LoggerEx:13 - Hi
+2022-08-19 07:58:13 INFO  GooglePage:27 - Title verification pass
+2022-08-19 07:58:53 INFO  GooglePage:33 - Search has done successfully
+2022-08-19 08:01:41 INFO  GooglePage:26 - Title verification pass
+2022-08-19 08:01:41 INFO  Reusables:58 - Going to enter text in text box of:[[ChromeDriver: chrome on WINDOWS (6f39540542049ad0e71e48e124c666e6)] -> name: q]
+2022-08-19 08:01:41 INFO  Reusables:61 - successfuly entered text: selenium
+2022-08-19 08:01:42 INFO  Reusables:43 - Going to click on :[[ChromeDriver: chrome on WINDOWS (6f39540542049ad0e71e48e124c666e6)] -> name: btnK]
+2022-08-19 08:02:16 INFO  Reusables:46 - Clicked on element successfully:Proxy element for: DefaultElementLocator 'By.name: btnK'
+2022-08-19 08:02:21 INFO  Reusables:72 - Going to verify is some element displayed or not[[ChromeDriver: chrome on WINDOWS (6f39540542049ad0e71e48e124c666e6)] -> xpath: //span[text()='All']]
+2022-08-19 08:02:21 INFO  Reusables:76 - Element displayed successfully
+2022-08-19 08:02:21 INFO  Reusables:26 - Screenshot caputured successfully
+2022-08-19 08:02:21 INFO  GooglePage:32 - Search has done successfully
